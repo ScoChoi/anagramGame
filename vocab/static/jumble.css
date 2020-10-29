@@ -1,0 +1,13 @@
+/* 
+ * Styles for vocabulary program. 
+ * 
+ * This may be used in combination with 
+ * Twitter Bootstrap style sheets, which 
+ * provide responsive design for mobile
+ * devices, so we don't want to mess up 
+ * layout and text sizes here. Used for minor attributes 
+ */
+
+.message { 
+    color: red;
+}
