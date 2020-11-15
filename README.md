@@ -7,4 +7,4 @@ The vocabulary word list is fixed for one invocation of the server, so multiple 
 
 ## Authors 
 
-Scott Choi and Ram Durairajan 
+Scott Choi
